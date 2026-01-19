@@ -1,25 +1,60 @@
 # Yogesh R | AWS DevOps Engineer  
 
-I design, automate, and operate scalable cloud infrastructure with production-grade CI/CD, containerization, and observability. I focus on reliability, automation-first workflows, and cloud-native architecture on AWS.
+I build and operate reliable, secure, and scalable cloud systems on AWS with strong automation, infrastructure-as-code, and observability. I focus on predictable deployments, clear architecture, and production-ready tooling rather than manual operations. My work blends cloud engineering, CI/CD, configuration management, and monitoring to reduce downtime and improve delivery speed.
 
 ---
 
-## Core Expertise
-
-**Cloud & DevOps**
+## Cloud & AWS
 
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-**Programming & Frameworks**
+---
+
+## DevOps, Automation & IaC
+
+<p align="left">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+## Monitoring & Observability
+
+<p align="left">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+## Networking & Security (AWS)
+
+- VPC design, subnetting, route tables  
+- Security Groups & NACLs  
+- NAT Gateway & Bastion Host  
+- IAM policies & least-privilege access  
+
+---
+
+## Programming & Backend
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,59 +62,38 @@ I design, automate, and operate scalable cloud infrastructure with production-gr
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-**Databases**
+- REST APIs  
+- Microservices fundamentals  
+
+---
+
+## Databases
 
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-</p>
-
-**Infrastructure as Code & Automation**
-
-<p align="left">
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
 </p>
 
 ---
 
-## What I Build
+## What I Build (realistic, not hype)
 
-- Production-ready **CI/CD pipelines** (GitHub → Jenkins → Docker → Kubernetes)  
-- Highly available **AWS architectures** (VPC, ALB/NLB, EC2, S3, IAM, RDS, Lambda, DynamoDB)  
-- Automated infrastructure with **Terraform and CloudFormation**  
-- Configuration management with **Ansible**  
-- Containerized services using **Docker + Kubernetes**  
-- Secure environments with least-privilege IAM and network controls  
-
----
-
-## Notable Projects
-
-**Two-Tier Flask Application with CI/CD**  
-- Dockerized multi-container setup  
-- GitHub webhook triggers Jenkins pipeline  
-- Automated build, test, and deploy flow  
-
-**VPC Peering Infrastructure (CloudFormation)**  
-- Parameterized templates  
-- Automated routing and connectivity validation  
-- Full documentation and reproducibility  
-
-**End-to-End Kubernetes CI/CD**  
-- Git + Jenkins + Docker + Kubernetes pipeline  
-- Container image builds and cluster deployments  
+- CI/CD pipelines using Jenkins + AWS CodePipeline  
+- Infrastructure as Code with Terraform & CloudFormation  
+- Containerized services on Docker + Kubernetes  
+- Automated server configuration using Ansible  
+- Cloud-native monitoring with Prometheus + Grafana  
+- Secure, segmented AWS VPC architectures  
 
 ---
 
-## GitHub Activity (auto-updating)
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshR45&show_icons=true&theme=dark)
 
 ---
 
-## Connect with Me
+## Connect
 
 - GitHub: https://github.com/YogeshR45  
