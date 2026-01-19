@@ -14,24 +14,25 @@ I design, automate, and operate scalable cloud infrastructure with production-gr
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-**Programming & Backend**
+**Programming & Frameworks**
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 **Databases**
 
 <p align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
 </p>
 
 **Infrastructure as Code & Automation**
@@ -46,27 +47,28 @@ I design, automate, and operate scalable cloud infrastructure with production-gr
 
 ## What I Build
 
-- Production-ready **CI/CD pipelines** (GitHub → Jenkins → Docker → Kubernetes)
-- Highly available **AWS architectures** (VPC, ALB/NLB, EC2, S3, IAM, RDS, Lambda)
-- Automated infrastructure with **Terraform and CloudFormation**
-- Containerized microservices using **Docker + Kubernetes**
-- Secure environments with least-privilege IAM and network controls
+- Production-ready **CI/CD pipelines** (GitHub → Jenkins → Docker → Kubernetes)  
+- Highly available **AWS architectures** (VPC, ALB/NLB, EC2, S3, IAM, RDS, Lambda, DynamoDB)  
+- Automated infrastructure with **Terraform and CloudFormation**  
+- Configuration management with **Ansible**  
+- Containerized services using **Docker + Kubernetes**  
+- Secure environments with least-privilege IAM and network controls  
 
 ---
 
 ## Notable Projects
 
-**Two-Tier Flask Application with CI/CD**
+**Two-Tier Flask Application with CI/CD**  
 - Dockerized multi-container setup  
 - GitHub webhook triggers Jenkins pipeline  
 - Automated build, test, and deploy flow  
 
-**VPC Peering Infrastructure (CloudFormation)**
+**VPC Peering Infrastructure (CloudFormation)**  
 - Parameterized templates  
 - Automated routing and connectivity validation  
 - Full documentation and reproducibility  
 
-**End-to-End Kubernetes CI/CD**
+**End-to-End Kubernetes CI/CD**  
 - Git + Jenkins + Docker + Kubernetes pipeline  
 - Container image builds and cluster deployments  
 
@@ -80,6 +82,4 @@ I design, automate, and operate scalable cloud infrastructure with production-gr
 
 ## Connect with Me
 
-- GitHub: https://github.com/YogeshR45 
- 
-
+- GitHub: https://github.com/YogeshR45  
