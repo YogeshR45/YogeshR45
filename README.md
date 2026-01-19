@@ -77,7 +77,7 @@ I build and operate reliable, secure, and scalable cloud systems on AWS with str
 
 ---
 
-## What I Build (realistic, not hype)
+## What I Build 
 
 - CI/CD pipelines using Jenkins + AWS CodePipeline  
 - Infrastructure as Code with Terraform & CloudFormation  
